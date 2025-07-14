@@ -22,7 +22,7 @@ JavaScript, TypeScript, SQL, PHP, Python, and Java
 React, Vue, Next.js, Astro, TailwindCSS, ShadCN, DaisyUi
 
 **Backend**:
-Node.js, Express.js, Laravel, Apollo GraphQL, Strapi
+Node.js, Express.js, Laravel, Apollo GraphQL, Strapi, Django, Firebase
 
 **Database**:
 MySQL, PostgreSQL, MongoDB, Prisma, Mongoose
